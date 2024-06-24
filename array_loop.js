@@ -1,2 +1,8 @@
 let numbers =["rahim", "karim",10, "jabbar", 100];
-console.log(numbers.length);
+numbers.push("BD")
+numbers.pop("BD")
+numbers.unshift("Chaina")
+numbers.shift("Chaina")
+
+console.log(numbers.reverse)
+
